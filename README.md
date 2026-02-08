@@ -2,9 +2,6 @@
 
 **Tagline:** Warm homes. Smarter costs.
 
-🔗 **GitHub Repository:**  
-https://github.com/bellatrix11176/cedar-flame-offer-modeling
-
 ## Overview
 This portfolio project simulates a home-energy provider (“Cedar & Flame”) using customer/home attributes to:
 - Segment customers by heating type
