@@ -36,3 +36,5 @@ This portfolio project simulates a home-energy provider (“Cedar & Flame”) us
 ```bash
 pip install -r requirements.txt
 python src/heatingdata_pipeline.py
+```
+🌐 **PixelKraze Analytics (Portfolio):** https://pixelkraze.com/?utm_source=github&utm_medium=readme&utm_campaign=portfolio&utm_content=homepage
